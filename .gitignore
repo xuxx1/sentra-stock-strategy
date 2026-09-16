@@ -71,3 +71,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+out.txt
+package-lock.json
