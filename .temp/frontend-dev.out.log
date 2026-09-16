@@ -1,9 +1,0 @@
-
-  vinext dev  (Vite 8.0.13)
-
-  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
-  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.124.10:[1m3000[22m/[39m
-  [32m➜[39m  [1mDebug[22m:   [2m[33mhttp://localhost:[1m3000[22m[2m/__debug[39m[22m
- GET / 200 in 87ms (compile: 1786605666.0s, render: 55ms)
- GET / 200 in 124ms (compile: 1786605666.0s, render: 78ms)
- GET /admin?_rsc 200 in 141ms (compile: 1786605666.1s, render: 0ms)
