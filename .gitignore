@@ -69,3 +69,11 @@ yarn-error.log*
 # vercel
 
 .vercel
+
+# pnpm cache
+.pnpm-store/
+
+# local temp files
+.temp/
+
+node_modules/
