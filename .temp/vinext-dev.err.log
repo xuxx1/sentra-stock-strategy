@@ -1,0 +1,10 @@
+file:///G:/xu/demo/%E8%88%86%E6%83%85%E9%A9%B1%E5%8A%A8%E7%9A%84%E8%82%A1%E7%A5%A8%E7%9F%AD%E7%BA%BF%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5%E7%94%9F%E6%88%90%E7%B3%BB%E7%BB%9F/node_modules/.pnpm/vinext@1.0.0-beta.2_@vitejs_da3cfe910abc970e3c191cc73e58297e/node_modules/vinext/dist/routing/file-matcher.js:4
+import { glob } from "node:fs/promises";
+         ^^^^
+SyntaxError: The requested module 'node:fs/promises' does not provide an export named 'glob'
+    at ModuleJob._instantiate (node:internal/modules/esm/module_job:146:21)
+    at async ModuleJob.run (node:internal/modules/esm/module_job:229:5)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+
+Node.js v20.18.0

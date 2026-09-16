@@ -1,0 +1,17 @@
+
+  vinext dev  (Vite 8.0.13)
+
+
+  vinext dev  (Vite 8.0.13)
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.124.10:[1m3000[22m/[39m
+  [32m➜[39m  [1mDebug[22m:   [2m[33mhttp://localhost:[1m3000[22m[2m/__debug[39m[22m
+ GET / 200 in 2.0s (compile: 1789551052.4s, render: 1.8s)
+ GET / 200 in 144ms (compile: 1789551052.2s, render: 101ms)
+ GET / 200 in 112ms (compile: 1789551052.2s, render: 78ms)
+ GET /admin?_rsc 500 in 12ms
+ GET /admin 500 in 6ms
+[2m17:58:37[22m [36m[1m[vite][22m[39m [34m[2m(rsc)[22m[39m [32mhmr update [39m[2m/app/globals.css[22m
+[2m17:58:37[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/app/globals.css?direct[22m
+ GET / 500 in 5ms
